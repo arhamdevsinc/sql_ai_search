@@ -1,0 +1,5 @@
+python-dotenv
+sqlalchemy==2.0.44
+psycopg2-binary == 2.9.11
+langchain-core == 0.3.12
+langchain-openai == 0.2.2
