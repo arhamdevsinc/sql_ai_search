@@ -14,4 +14,4 @@ OPENAI_API_KEY = "Your API Key"
 
 python ai_search.py
 
-### To quite, type quit or exit
+### To quit, type quit or exit
