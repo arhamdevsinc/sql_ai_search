@@ -10,4 +10,8 @@ Put your Open API key as
 
 OPENAI_API_KEY = "Your API Key"
 
-### Run ai_search.py
+### Run 
+
+python ai_search.py
+
+### To quite, type quit or exit
